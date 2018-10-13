@@ -152,3 +152,4 @@ Function Import-AppVolumesADCertificate
      
      
 
+Import-AppVolumesADCertificate $args

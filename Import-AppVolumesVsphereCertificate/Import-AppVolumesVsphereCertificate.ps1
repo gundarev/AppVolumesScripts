@@ -181,4 +181,4 @@ public class TrustAllCertsPolicy : ICertificatePolicy {
      
      
 
-Import-AppVolumesVsphereCertificate -vSphereHosts $args
+Import-AppVolumesVsphereCertificate  $args
